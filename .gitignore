@@ -1,0 +1,3 @@
+# Exclude everything except nginx-cert-tool
+CLAUDE.md
+test_cert/

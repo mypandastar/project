@@ -1,0 +1,27 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated certs (keep out of version control)
+*.crt
+*.key
+*.p12
+*.pem
+*.jks
+*.keystore
